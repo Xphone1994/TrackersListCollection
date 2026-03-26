@@ -20,6 +20,8 @@ http://extracker.dahrkael.net:6969/announce
 
 http://ipv4.rer.lol:2710/announce
 
+http://ipv4announce.sktorrent.eu:6969/announce
+
 http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
@@ -34,11 +36,11 @@ http://torrentsmd.com:8080/announce
 
 http://tr.highstar.shop:80/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tr.nyacat.pw:80/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.cubonegro.org:80/announce
 
 http://tracker.darkness.services:6969/announce
 
@@ -54,21 +56,21 @@ http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
+http://tracker.tritan.gg:8080/announce
+
 http://tracker.tvunderground.org.ru:3218/announce
+
+http://tracker.waaa.moe:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.com:80/announce
-
-http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -83,6 +85,8 @@ https://004430.xyz:443/announce
 https://1337.abcvg.info:443/announce
 
 https://cny.fan:443/announce
+
+https://colibri.parrot.run:443/announce
 
 https://http1.torrust-tracker-demo.com:443/announce
 
@@ -112,6 +116,8 @@ https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
+https://tracker.iperson.xyz:443/announce
+
 https://tracker.kuroy.me:443/announce
 
 https://tracker.manager.v6.navy:443/announce
@@ -135,8 +141,6 @@ https://tracker.zhuqiy.com:443/announce
 https://tracker1.520.jp:443/announce
 
 udp://52.58.128.163:6969/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://[2a03:7220:8083:cd00::1]:451/announce
 
@@ -166,11 +170,11 @@ udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
+udp://node01.madtia.cc:42069/announce
+
 udp://node01.torrentonline.cc:42069/announce
 
 udp://node01.trackerstatus.live:42069/announce
-
-udp://node02.madtia.cc:42069/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
@@ -198,7 +202,7 @@ udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:54123/announce
 
-udp://torrentvpn.club:6990/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
