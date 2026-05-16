@@ -20,6 +20,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://t.overflow.biz:6969/announce
 
+http://torrent.hificode.in:6969/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.highstar.shop:80/announce
@@ -43,6 +45,8 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
+
+http://tracker.tritan.gg:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -75,8 +79,6 @@ https://torrent.tracker.durukanbal.com:443/announce
 https://torrents.tmtime.dev:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
