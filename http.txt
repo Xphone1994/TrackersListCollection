@@ -1,5 +1,7 @@
 http://004430.xyz:80/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://107.189.2.131:1337/announce
 
 http://132.243.161.144:6969/announce
@@ -18,7 +20,13 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt1.archive.org:6969/announce
 
+http://bt2.archive.org:6969/announce
+
+http://buny.uk:6969/announce
+
 http://ipv4announce.sktorrent.eu:6969/announce
+
+http://jvavav.com:80/announce
 
 http://maxsrv.xyz:9000/announce
 
@@ -26,7 +34,9 @@ http://nyaa.tracker.wf:7777/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
 
-http://t.overflow.biz:6969/announce
+http://share.hkg-fansub.info:80/announce.php
+
+http://supertracker.cc.cd:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -36,7 +46,11 @@ http://tr.kxmp.cf:80/announce
 
 http://tr.nyacat.pw:80/announce
 
+http://tracker.bittor.pw:1337/announce
+
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.corpscorp.online:80/announce
 
 http://tracker.cubonegro.org:80/announce
 
@@ -47,6 +61,10 @@ http://tracker.dler.org:6969/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentorrent.top:6969/announce
+
+http://tracker.opentrackr.org:1337/announce
+
+http://tracker.plx.im:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -90,7 +108,7 @@ https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
 
-https://torrents.tmtime.dev:443/announce
+https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
@@ -103,6 +121,8 @@ https://tracker.7471.top:443/announce
 https://tracker.anibt.net:443/announce
 
 https://tracker.bt4g.com:443/announce
+
+https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
