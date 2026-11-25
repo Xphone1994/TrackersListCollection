@@ -26,6 +26,8 @@ http://tr.nyacat.pw:80/announce
 
 http://tracker.23794.top:6969/announce
 
+http://tracker.bittor.pw:1337/announce
+
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
@@ -73,6 +75,8 @@ https://t.213891.xyz:443/announce
 https://t1.hloli.org:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -128,8 +132,6 @@ udp://explodie.org:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
-udp://ipv6.govt.hu:6969/announce
-
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
 
 udp://mail.segso.net:6969/announce
@@ -180,11 +182,15 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.004430.xyz:1337/announce
 
+udp://tracker.23794.top:6969/announce
+
 udp://tracker.alt.cx:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.bluefrog.pw:2710/announce
+
+udp://tracker.bunk.im:6969/announce
 
 udp://tracker.cn.nyaa.net:6969/announce
 
@@ -202,8 +208,6 @@ udp://tracker.edkj.club:6969/announce
 
 udp://tracker.evergarden.uk:1914/announce
 
-udp://tracker.farted.net:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
@@ -213,8 +217,6 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.ixuexi.click:6969/announce
-
-udp://tracker.k.vu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
@@ -262,11 +264,7 @@ udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-udp://v2.iperson.xyz:6969/announce
-
 udp://whybother.torrentonline.cc:42069/announce
-
-udp://yuptracker-eu.gaijinent.com:27022/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
